@@ -1,0 +1,8 @@
+.content_wrapper p {
+    color: var(--secondFontColor);
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+  }
